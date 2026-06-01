@@ -16,6 +16,7 @@ A fully responsive, animated coffee shop website built with pure HTML, CSS, and 
 python -m http.server 8080
 ```
 Then open `http://localhost:8080`
+If you want to see it "https://adolphvancoller.github.io/Coffee-Shop/"
 
 ### Option 3 — Direct file
 Open `index.html` directly in your browser. Most features work fine, though some browsers block external image requests from `file://` — use one of the server options above for best results.
